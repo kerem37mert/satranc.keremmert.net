@@ -4,9 +4,26 @@ body{
 
 nav{
     background-color: #f0d9b5;
+    margin-top: 20px;
+    padding: 16px;
+    margin-bottom: 20px;
+}
+
+.sec-asi{
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .big-title{
     font-weight: bold;
     font-size: 40px;
+}
+
+.std-sec{
+    background-color: #f0d9b5;
+    padding: 10px;
+}
+
+aside{
+    background-color: #f0d9b5;
 }
