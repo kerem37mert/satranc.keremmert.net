@@ -1,0 +1,31 @@
+body{
+    background-color: #b58863;
+}
+
+nav{
+    background-color: #f0d9b5;
+    margin-top: 0px;
+    padding: 16px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+@media (min-width: 576px) {
+
+    nav{
+        margin-top: 20px;
+    }
+
+}
+
+.big-title{
+    font-weight: bold;
+    font-size: 40px;
+    text-decoration: none;
+    color: #383531;
+}
+
+.big-title-span{
+    color: #383531;
+    font-weight: bold;
+}
