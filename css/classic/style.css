@@ -29,3 +29,19 @@ nav{
     color: #383531;
     font-weight: bold;
 }
+
+.top-10{
+    background-color: #f0d9b5;
+    padding: 20px;
+    color: #383531;
+}
+
+.top-10 table{
+    color: #383531;
+    border-bottom: 1px solid #383531;
+}
+
+.one-cikan{
+    background-color: #f0d9b5;
+    padding: 20px;
+}
