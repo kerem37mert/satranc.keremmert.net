@@ -101,3 +101,17 @@ nav{
     margin-bottom: 20px;
     color: #000;
 }
+
+footer{
+    background-color: #e0dcd7;
+    color: #393632;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    margin-top: 40px;
+}
+
+.an-article{
+    text-align: justify;
+    padding: 30px;
+}
